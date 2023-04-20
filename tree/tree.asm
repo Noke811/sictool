@@ -334,10 +334,10 @@ record	RESB	9
 save	WORD	0
 svNum	WORD	0
 
-input	BYTE	C'input'
-list	BYTE	C'list'
-delete	BYTE	C'delete'
-find	BYTE	C'find'
+input	BYTE	C'INPUT'
+list	BYTE	C'LIST'
+delete	BYTE	C'DELETE'
+find	BYTE	C'FIND'
 full	BYTE	C'FULL'
 none	BYTE	C'NONE'
 n1	BYTE	C'0'
